@@ -6,3 +6,7 @@ this is a course in economic modeling using ai
 1. David Olano
 2. Vanessa Rojas
 
+# movies 
+1. Interestellar
+2. El padrino
+
